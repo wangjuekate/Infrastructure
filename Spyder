@@ -1,0 +1,14 @@
+#reset spyder
+spyder --reset
+
+#update spyder
+conda update conda
+conda update anaconda
+conda update spyder
+
+
+#packages
+conda create --name myenv
+conda install -n myenv scipy (install certain spyder)
+conda info --envs
+source activate /opt/anaconda3/envs/subscribe
