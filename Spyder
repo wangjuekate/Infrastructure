@@ -12,3 +12,6 @@ conda create --name myenv
 conda install -n myenv scipy (install certain spyder)
 conda info --envs
 source activate /opt/anaconda3/envs/subscribe
+
+#windows
+conda activate ...
