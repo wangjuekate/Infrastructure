@@ -15,3 +15,8 @@ source activate /opt/anaconda3/envs/subscribe
 
 #windows
 conda activate ...
+
+
+
+#WinDows not Mac
+#use spyder terminal !pip install packages. 
